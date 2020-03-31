@@ -129,7 +129,7 @@ export default {
           size: [1, 1],
           img: '',
           tags: 'science',
-          title: '14 Things Men Should Never Wear After 30',
+          title: '14 Things Men Should Never Wear After 3000',
           caption: 'Light a bonfire in the garden, and step bravely into your best-dressed decade',
           link: 'https://ya.ru',
           isBg: true,
